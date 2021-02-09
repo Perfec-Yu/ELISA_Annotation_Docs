@@ -40,26 +40,32 @@ Will remove from annotation system later
 ## Event Definitions
 ### Investment
 Arguments: Imposed purpose, Recipient, Supplier, Money, Place, Time
+
 Examples: 
 <br>[[^back^]](#Navigation)
 ### Construction
 Arguments: Constructor, Created_entity, Place, Time
+
 Examples:
 <br>[[^back^]](#Navigation)
 ### Employment
 Arguments: to be added
+
 Examples: to be added
 <br>[[^back^]](#Navigation)
 ### Transaction
 Arguments: to be added
+
 Examples: to be added
 <br>[[^back^]](#Navigation)
 ### Infrastructure
 Arguments: to be added
+
 Examples: to be added
 <br>[[^back^]](#Navigation)
 ### Transportation
 Arguments: to be added
+
 Examples: to be added
 <br>[[^back^]](#Navigation)
 ## Entity Definitions
